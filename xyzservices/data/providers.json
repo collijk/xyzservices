@@ -9408,6 +9408,29 @@
             "TileMatrixSet": "PM",
             "apikey": "your_api_key_here"
         },
+        "Ofb_Zones_Exclues_Sauf_Toiture": {
+            "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&STYLE={style}&TILEMATRIXSET={TileMatrixSet}&FORMAT={format}&LAYER={variant}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+            "html_attribution": "<a target=\"_blank\"href=\"https://www.geoportail.gouv.fr/\">Geoportail France</a>",
+            "attribution": "Geoportail France",
+            "bounds": [
+                [
+                    41.3252,
+                    -5.15047
+                ],
+                [
+                    51.0991,
+                    9.57054
+                ]
+            ],
+            "min_zoom": 6,
+            "max_zoom": 16,
+            "format": "image/png",
+            "style": "OFB.ZONES.EXCLUES.SAUF.TOITURE",
+            "variant": "OFB.ZONES.EXCLUES.SAUF.TOITURE",
+            "name": "GeoportailFrance.Ofb_Zones_Exclues_Sauf_Toiture",
+            "TileMatrixSet": "PM",
+            "apikey": "your_api_key_here"
+        },
         "Ofb_Zones_Necessitant_Avis_Gestionnaire": {
             "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&STYLE={style}&TILEMATRIXSET={TileMatrixSet}&FORMAT={format}&LAYER={variant}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
             "html_attribution": "<a target=\"_blank\"href=\"https://www.geoportail.gouv.fr/\">Geoportail France</a>",
@@ -13343,6 +13366,29 @@
             "TileMatrixSet": "PM",
             "apikey": "your_api_key_here"
         },
+        "Potentiel_Solaire_Rrn": {
+            "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&STYLE={style}&TILEMATRIXSET={TileMatrixSet}&FORMAT={format}&LAYER={variant}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+            "html_attribution": "<a target=\"_blank\"href=\"https://www.geoportail.gouv.fr/\">Geoportail France</a>",
+            "attribution": "Geoportail France",
+            "bounds": [
+                [
+                    41.3252,
+                    -5.15047
+                ],
+                [
+                    51.0991,
+                    9.57054
+                ]
+            ],
+            "min_zoom": 6,
+            "max_zoom": 16,
+            "format": "image/png",
+            "style": "POTENTIEL.SOLAIRE.RRN",
+            "variant": "POTENTIEL.SOLAIRE.RRN",
+            "name": "GeoportailFrance.Potentiel_Solaire_Rrn",
+            "TileMatrixSet": "PM",
+            "apikey": "your_api_key_here"
+        },
         "Potentiel_Solaire_Sol": {
             "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&STYLE={style}&TILEMATRIXSET={TileMatrixSet}&FORMAT={format}&LAYER={variant}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
             "html_attribution": "<a target=\"_blank\"href=\"https://www.geoportail.gouv.fr/\">Geoportail France</a>",
@@ -15229,29 +15275,6 @@
             "TileMatrixSet": "PM",
             "apikey": "your_api_key_here"
         },
-        "Zonage_Ofb": {
-            "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&STYLE={style}&TILEMATRIXSET={TileMatrixSet}&FORMAT={format}&LAYER={variant}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
-            "html_attribution": "<a target=\"_blank\"href=\"https://www.geoportail.gouv.fr/\">Geoportail France</a>",
-            "attribution": "Geoportail France",
-            "bounds": [
-                [
-                    -21.4756,
-                    -63.3725
-                ],
-                [
-                    51.3121,
-                    55.9259
-                ]
-            ],
-            "min_zoom": 6,
-            "max_zoom": 16,
-            "format": "image/png",
-            "style": "ZONAGE.OFB",
-            "variant": "ZONAGE.OFB",
-            "name": "GeoportailFrance.Zonage_Ofb",
-            "TileMatrixSet": "PM",
-            "apikey": "your_api_key_here"
-        },
         "Hedge_Hedge": {
             "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&STYLE={style}&TILEMATRIXSET={TileMatrixSet}&FORMAT={format}&LAYER={variant}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
             "html_attribution": "<a target=\"_blank\"href=\"https://www.geoportail.gouv.fr/\">Geoportail France</a>",
@@ -15856,6 +15879,305 @@
                 ]
             ],
             "name": "OrdnanceSurvey.Leisure_27700"
+        }
+    },
+    "Planet": {
+        "2016q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2016q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2016q1"
+        },
+        "2016q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2016q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2016q2"
+        },
+        "2016q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2016q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2016q3"
+        },
+        "2016q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2016q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2016q4"
+        },
+        "2017q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2017q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2017q1"
+        },
+        "2017q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2017q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2017q2"
+        },
+        "2017q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2017q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2017q3"
+        },
+        "2017q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2017q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2017q4"
+        },
+        "2018q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2018q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2018q1"
+        },
+        "2018q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2018q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2018q2"
+        },
+        "2018q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2018q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2018q3"
+        },
+        "2018q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2018q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2018q4"
+        },
+        "2019q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2019q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2019q1"
+        },
+        "2019q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2019q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2019q2"
+        },
+        "2019q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2019q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2019q3"
+        },
+        "2019q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2019q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2019q4"
+        },
+        "2020q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2020q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2020q1"
+        },
+        "2020q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2020q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2020q2"
+        },
+        "2020q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2020q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2020q3"
+        },
+        "2020q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2020q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2020q4"
+        },
+        "2021q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2021q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2021q1"
+        },
+        "2021q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2021q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2021q2"
+        },
+        "2021q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2021q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2021q3"
+        },
+        "2021q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2021q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2021q4"
+        },
+        "2022q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2022q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2022q1"
+        },
+        "2022q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2022q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2022q2"
+        },
+        "2022q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2022q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2022q3"
+        },
+        "2022q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2022q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2022q4"
+        },
+        "2023q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2023q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2023q1"
+        },
+        "2023q2": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2023q2",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2023q2"
+        },
+        "2023q3": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2023q3",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2023q3"
+        },
+        "2023q4": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2023q4",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2023q4"
+        },
+        "2024q1": {
+            "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
+            "api_key": "<insert your Planet API key here>",
+            "max_zoom": 15,
+            "quarter": "2024q1",
+            "attribution": "\u00a9 2024 Planet Labs PBC. All rights reserved",
+            "html_attribution": "\u00a9 <a href=\"https://www.planet.com/\"> 2024 Planet Labs PBC. All rights reserved</a>",
+            "name": "Planet.2024q1"
         }
     }
 }
