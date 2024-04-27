@@ -546,302 +546,302 @@
         }
     },
     "Planet": {
-        "2016q1": {
+        "QuarterlyBasemaps2016q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2016q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2016q1"
+            "name": "Planet.QuarterlyBasemaps2016q1"
         },
-        "2016q2": {
+        "QuarterlyBasemaps2016q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2016q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2016q2"
+            "name": "Planet.QuarterlyBasemaps2016q2"
         },
-        "2016q3": {
+        "QuarterlyBasemaps2016q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2016q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2016q3"
+            "name": "Planet.QuarterlyBasemaps2016q3"
         },
-        "2016q4": {
+        "QuarterlyBasemaps2016q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2016q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2016q4"
+            "name": "Planet.QuarterlyBasemaps2016q4"
         },
-        "2017q1": {
+        "QuarterlyBasemaps2017q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2017q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2017q1"
+            "name": "Planet.QuarterlyBasemaps2017q1"
         },
-        "2017q2": {
+        "QuarterlyBasemaps2017q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2017q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2017q2"
+            "name": "Planet.QuarterlyBasemaps2017q2"
         },
-        "2017q3": {
+        "QuarterlyBasemaps2017q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2017q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2017q3"
+            "name": "Planet.QuarterlyBasemaps2017q3"
         },
-        "2017q4": {
+        "QuarterlyBasemaps2017q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2017q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2017q4"
+            "name": "Planet.QuarterlyBasemaps2017q4"
         },
-        "2018q1": {
+        "QuarterlyBasemaps2018q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2018q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2018q1"
+            "name": "Planet.QuarterlyBasemaps2018q1"
         },
-        "2018q2": {
+        "QuarterlyBasemaps2018q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2018q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2018q2"
+            "name": "Planet.QuarterlyBasemaps2018q2"
         },
-        "2018q3": {
+        "QuarterlyBasemaps2018q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2018q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2018q3"
+            "name": "Planet.QuarterlyBasemaps2018q3"
         },
-        "2018q4": {
+        "QuarterlyBasemaps2018q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2018q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2018q4"
+            "name": "Planet.QuarterlyBasemaps2018q4"
         },
-        "2019q1": {
+        "QuarterlyBasemaps2019q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2019q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2019q1"
+            "name": "Planet.QuarterlyBasemaps2019q1"
         },
-        "2019q2": {
+        "QuarterlyBasemaps2019q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2019q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2019q2"
+            "name": "Planet.QuarterlyBasemaps2019q2"
         },
-        "2019q3": {
+        "QuarterlyBasemaps2019q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2019q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2019q3"
+            "name": "Planet.QuarterlyBasemaps2019q3"
         },
-        "2019q4": {
+        "QuarterlyBasemaps2019q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2019q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2019q4"
+            "name": "Planet.QuarterlyBasemaps2019q4"
         },
-        "2020q1": {
+        "QuarterlyBasemaps2020q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2020q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2020q1"
+            "name": "Planet.QuarterlyBasemaps2020q1"
         },
-        "2020q2": {
+        "QuarterlyBasemaps2020q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2020q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2020q2"
+            "name": "Planet.QuarterlyBasemaps2020q2"
         },
-        "2020q3": {
+        "QuarterlyBasemaps2020q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2020q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2020q3"
+            "name": "Planet.QuarterlyBasemaps2020q3"
         },
-        "2020q4": {
+        "QuarterlyBasemaps2020q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2020q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2020q4"
+            "name": "Planet.QuarterlyBasemaps2020q4"
         },
-        "2021q1": {
+        "QuarterlyBasemaps2021q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2021q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2021q1"
+            "name": "Planet.QuarterlyBasemaps2021q1"
         },
-        "2021q2": {
+        "QuarterlyBasemaps2021q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2021q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2021q2"
+            "name": "Planet.QuarterlyBasemaps2021q2"
         },
-        "2021q3": {
+        "QuarterlyBasemaps2021q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2021q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2021q3"
+            "name": "Planet.QuarterlyBasemaps2021q3"
         },
-        "2021q4": {
+        "QuarterlyBasemaps2021q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2021q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2021q4"
+            "name": "Planet.QuarterlyBasemaps2021q4"
         },
-        "2022q1": {
+        "QuarterlyBasemaps2022q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2022q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2022q1"
+            "name": "Planet.QuarterlyBasemaps2022q1"
         },
-        "2022q2": {
+        "QuarterlyBasemaps2022q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2022q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2022q2"
+            "name": "Planet.QuarterlyBasemaps2022q2"
         },
-        "2022q3": {
+        "QuarterlyBasemaps2022q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2022q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2022q3"
+            "name": "Planet.QuarterlyBasemaps2022q3"
         },
-        "2022q4": {
+        "QuarterlyBasemaps2022q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2022q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2022q4"
+            "name": "Planet.QuarterlyBasemaps2022q4"
         },
-        "2023q1": {
+        "QuarterlyBasemaps2023q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2023q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2023q1"
+            "name": "Planet.QuarterlyBasemaps2023q1"
         },
-        "2023q2": {
+        "QuarterlyBasemaps2023q2": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2023q2",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2023q2"
+            "name": "Planet.QuarterlyBasemaps2023q2"
         },
-        "2023q3": {
+        "QuarterlyBasemaps2023q3": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2023q3",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2023q3"
+            "name": "Planet.QuarterlyBasemaps2023q3"
         },
-        "2023q4": {
+        "QuarterlyBasemaps2023q4": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2023q4",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2023q4"
+            "name": "Planet.QuarterlyBasemaps2023q4"
         },
-        "2024q1": {
+        "QuarterlyBasemaps2024q1": {
             "url": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_quarterly_{quarter}_mosaic/{z}/{x}/{y}.png?api_key={api_key}",
             "api_key": "<insert your Planet API key here>",
             "max_zoom": 15,
             "quarter": "2024q1",
             "attribution": "© {year} Planet Labs PBC. All rights reserved",
             "html_attribution": "© <a href=\"https://www.planet.com/\"> {year} Planet Labs PBC. All rights reserved</a>",
-            "name": "Planet.2024q1"
+            "name": "Planet.QuarterlyBasemaps2024q1"
         }
     }
 }
